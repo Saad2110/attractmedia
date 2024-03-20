@@ -1,0 +1,33 @@
+{
+    "attractmedia.ca": {
+        "siteId": "XeIFjVpJWXbEeuNeIUsbCBAzZFVBktUR",
+        "siteSecret": "fe3gKbQXbh0lJUJEHf5kEaG44zzyQyJMq8XYGoPvNhLXs18s1N66EOyYtggZN06A",
+        "blogId": 1,
+        "compression": true,
+        "webhookToken": "3558b090e6e9e27c557a020d84bb514b",
+        "home_url": "https:\/\/attractmedia.ca",
+        "admin_url": "https:\/\/attractmedia.ca\/wp-admin\/",
+        "hosting": "siteground",
+        "alwaysBuffer": true,
+        "isEzoicActive": false,
+        "isApoActive": false,
+        "isLateIntegrationInitRequired": false,
+        "isDlmActive": false,
+        "isWoocommerceCacheHandlerActive": false,
+        "isWoocommerceActive": false,
+        "isAeliaCurrencySwitcherActive": false,
+        "isGeoTargetingWPActive": false,
+        "dlm_downloading_url": null,
+        "dlm_download_endpoint": null,
+        "pluginVersion": "1.7.1",
+        "options_cache": {
+            "cache_handler_cache_handler": false,
+            "woocommerce_default_customer_address": false,
+            "wc_aelia_currency_switcher": {
+                "ipgeolocation_enabled": null
+            }
+        },
+        "additional_domains": []
+    },
+    "config_path": "bbbd33bc38415fbd1b9d53c545f1325a"
+}

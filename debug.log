@@ -1,0 +1,1 @@
+[21-Nov-2022 13:05:11 UTC] PHP Warning:  fopen(/home/customer/www/letsattract.com/public_html/attractmedia/wp-content/debug.log): failed to open stream: No such file or directory in /home/customer/www/letsattract.com/public_html/attractmedia/wp-content/plugins/conflict-finder-wp-fix-it/src/Classes/AjaxHandler.php on line 91
